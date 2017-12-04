@@ -16,7 +16,7 @@
     "url": "https://github.com/geoctrl/minify-template-literal-loader/issues"
   },
   "homepage": "https://github.com/geoctrl/minify-template-literal-loader#readme",
-  "dependencies": {
+  "peerDependencies": {
     "html-minifier": "^3.5.7"
   }
 }
