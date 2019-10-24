@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/geoctrl/minify-template-literal-loader#readme",
   "peerDependencies": {
-    "html-minifier": "^3.5.7"
+    "html-minifier": "^4.0.0"
   }
 }
